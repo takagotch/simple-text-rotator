@@ -1,4 +1,4 @@
-###
+### simple-text-rotator
 ---
 
 ```
